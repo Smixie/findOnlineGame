@@ -1,7 +1,7 @@
 # findOnlineGame
 
 System ekspercki - Find Online Game<br>
-Program działa w języky Python z użyciem systemu regułowego CLIPS.
+Program działa w języku Python z użyciem systemu eksperckiego CLIPS.
 
 # Autorzy
 Adam Malinowski <br>
